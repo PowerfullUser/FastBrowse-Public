@@ -1,0 +1,5 @@
+Requirements to use this browser
+
+- Install latest Python Interpreter, 3.9 or later.
+- Install PyQt5 and PyQtWebEngine.
+- Not change the directory structures.
